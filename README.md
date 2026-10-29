@@ -64,3 +64,7 @@ It can be used for activities such as:
 - Security-tool experimentation
 
 ---
+
+## 🏗️ Lab Architecture
+
+![]()
