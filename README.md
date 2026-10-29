@@ -98,11 +98,11 @@ Additional target machines can be added to the same virtual network in future pr
 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a `.7z` archive.
 
 **Tool:** 7-Zip
-![image alt]()
+![image alt](https://github.com/benjaminceo315-bot/week-one-cyber-security-netwalk/blob/7620a0e0f8bb188ad191f72f2c954878b50ef1cc/Screenshot%202026-10-27%20101844.png)
 ---
 
 ## Step 2. Install VirtualBox
-
+![image alt]()
 VirtualBox was installed as the hypervisor.
 
 ---
