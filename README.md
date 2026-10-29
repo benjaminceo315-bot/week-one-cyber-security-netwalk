@@ -102,7 +102,7 @@ Additional target machines can be added to the same virtual network in future pr
 ---
 
 ## Step 2. Install VirtualBox
-![image alt]()
+![image alt](https://github.com/benjaminceo315-bot/week-one-cyber-security-netwalk/blob/e7bccb2e6d80a21a05dae73f6a3583e3ccfb06a5/Screenshot%202026-10-29%20212227.png)
 VirtualBox was installed as the hypervisor.
 
 ---
