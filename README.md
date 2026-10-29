@@ -98,6 +98,7 @@ Additional target machines can be added to the same virtual network in future pr
 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a `.7z` archive.
 
 **Tool:** 7-Zip
+
 ![image alt](https://github.com/benjaminceo315-bot/week-one-cyber-security-netwalk/blob/7620a0e0f8bb188ad191f72f2c954878b50ef1cc/Screenshot%202026-10-27%20101844.png)
 ---
 
@@ -116,8 +117,7 @@ Network Name: NatNetwork
 IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
-
-![](2-screenshot-network-settings-1.png)
+ 
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
@@ -144,7 +144,7 @@ The VM was allocated:
 ```text
 RAM: 2048 MB
 ```
-![](3-screenshot-kali-linux.png)
+![image alt](https://github.com/benjaminceo315-bot/week-one-cyber-security-netwalk/blob/e7bccb2e6d80a21a05dae73f6a3583e3ccfb06a5/Screenshot%202026-10-29%20212227.png)
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
 
