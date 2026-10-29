@@ -76,10 +76,10 @@ Additional target machines can be added to the same virtual network in future pr
 
 | 🧩 Component       | ⚙️ Configuration   |
 | ------------------ | ------------------  |
-| 🖥️ Host OS         | Windows 10         |
+| 🖥️ Host OS         | Windows 11         |
 | 🧠 Host RAM        | 8 GB               |
-| ⚡ Processor       | Intel Core i7      |
-| 🧰 Hypervisor      | VirtualBox 7.2  |
+| ⚡ Processor       | Intel Core i5      |
+| 🧰 Hypervisor      | VirtualBox 7.2     |
 | 🐉 Security OS     | Kali Linux 2026.2  |
 | 🧠 Kali RAM        | 2048 MB            |
 | 🌐 Virtual Network | NAT Network        |
@@ -110,7 +110,7 @@ VirtualBox was installed as the hypervisor.
 ## Step 3. Create the NAT Network
 
 A dedicated NAT Network was created in VirtualBox.
-
+![image alt](https://github.com/benjaminceo315-bot/week-one-cyber-security-netwalk/blob/7613a41750ab32beff8b27bc8571c1798d953a94/Screenshot%202026-10-29%20212309.png)
 Configuration:
 Network Name: NatNetwork
 IPv4 Prefix:  10.0.0.0/24
