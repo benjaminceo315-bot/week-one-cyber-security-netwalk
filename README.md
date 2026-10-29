@@ -98,7 +98,7 @@ Additional target machines can be added to the same virtual network in future pr
 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a `.7z` archive.
 
 **Tool:** 7-Zip
-
+![image alt]()
 ---
 
 ## Step 2. Install VirtualBox
