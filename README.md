@@ -67,4 +67,4 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![]()
+![image alt](https://github.com/benjaminceo315-bot/week-one-cyber-security-netwalk/blob/cc8426e6d6fe6d397c8c79d825b8099d5dd89e92/Screenshot%202026-10-29%20212227.png)
