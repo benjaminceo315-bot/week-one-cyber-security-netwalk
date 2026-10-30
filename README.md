@@ -171,7 +171,9 @@ A consistent IP address makes it easier to document the lab and reference the Ka
 ---
 
 ## Step 6. Create a Clean VM Snapshot
-![image alt]()
+
+![image alt](https://github.com/benjaminceo315-bot/week-one-cyber-security-netwalk/blob/40ec48bfaf176895c4ef109ecff252f7fb376afe/Screenshot%202026-10-30%20132238.png)
+
 After completing the initial configuration, a VirtualBox snapshot was created.
 
 Example snapshot name:
