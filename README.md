@@ -166,7 +166,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![](4-screenshot-kali-network-settings.png)
+![image alt](https://github.com/benjaminceo315-bot/week-one-cyber-security-netwalk/blob/759a2bf1ed561150ef04c100de14c0ccf2f73ff3/Screenshot%202026-10-30%20131240.png)
 
 ---
 
